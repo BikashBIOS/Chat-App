@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "670415109174",
+    "firebase_url": "https://chat-app-18e21.firebaseio.com",
+    "project_id": "chat-app-18e21",
+    "storage_bucket": "chat-app-18e21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670415109174:android:9beace47332b5859646c97",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670415109174-d0em3ts1bcc0caru6ckqpchq69ikdki5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat",
+            "certificate_hash": "7ab9a1476a057f1b8fb7fed0c57dc5aea7dd6d51"
+          }
+        },
+        {
+          "client_id": "670415109174-deja3iamluih5igbe6uptp81m2rs5s9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuq5s_XjtfdQoi43YdGJs1MzyJ-aKK5Kg"
+        },
+        {
+          "current_key": "AIzaSyBuq5s_XjtfdQoi43YdGJs1MzyJ-aKK5Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670415109174-deja3iamluih5igbe6uptp81m2rs5s9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670415109174:android:e27a079a4b6a2852646c97",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670415109174-2d478u2tbvoi6hg5rv0bu8bbf5vhg49i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "7ab9a1476a057f1b8fb7fed0c57dc5aea7dd6d51"
+          }
+        },
+        {
+          "client_id": "670415109174-deja3iamluih5igbe6uptp81m2rs5s9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuq5s_XjtfdQoi43YdGJs1MzyJ-aKK5Kg"
+        },
+        {
+          "current_key": "AIzaSyBuq5s_XjtfdQoi43YdGJs1MzyJ-aKK5Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670415109174-deja3iamluih5igbe6uptp81m2rs5s9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
